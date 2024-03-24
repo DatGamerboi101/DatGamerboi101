@@ -18,6 +18,9 @@ Who is Dat? Just a blue Nardo from Sweden who have to many hobbies and Maintaini
 
 ## Where to find me
 
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 - Twitter: [@DatGamerboi101](https://twitter.com/DatGamerboi101)
 - Telegram [@DatGamerboi101](https://t.me/DatGamerboi101)
 - Discord @DatGamerboi101

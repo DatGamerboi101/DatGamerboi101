@@ -16,7 +16,10 @@ Who is Dat? Just a blue Nardo from Sweden who have to many hobbies and Maintaini
     - Pi-hole
 - Beginner in Python
 
-## Where to find me
+## Dat Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datgamerboi101&show_icons=true&theme=tokyonight)
+
+# Where to find me
 
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)

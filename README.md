@@ -10,4 +10,4 @@ Who is Dat? Just a blue Nardo from Sweden who have to many hobbies and Maintaini
     - Docker
     - Home Assistant
     - Pi-hole
-- Beginner Python
+- Beginner in Python

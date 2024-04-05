@@ -1,5 +1,5 @@
 # Hai I'm Dat! :3
-Who is Dat? Just a blue Nardo from Sweden who have to many hobbies and Maintaining servers is one of them. I'm also a big fan of Open source Projects and have many projects myself.
+Who is Dat? Just a blue Nardo from Sweden who have to many hobbies and Maintaining servers is one of them. I'm also a big fan of Open source Projects and have plenty of projects myself.
 
 Need help with documentations or servers? hmu!
 

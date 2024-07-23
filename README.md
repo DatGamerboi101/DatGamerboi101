@@ -5,6 +5,8 @@ Need help with documentations or servers? hmu!
 
 Find my socials [here](https://github.com/DatGamerboi101#where-to-find-me)
 
+And my status page for all my services [here](https://shlink.datcomms.com/Kuma)
+
 ## What do I do?
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
